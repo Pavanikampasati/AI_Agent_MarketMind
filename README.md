@@ -61,3 +61,19 @@ User Question
 LLM Response
       ↓
 End
+
+MarketMind follows a multi-step agentic workflow:
+
+User Goal
+    ↓
+Planning
+    ↓
+Task Decomposition
+    ↓
+Tool / Knowledge Retrieval
+    ↓
+Context & State Management
+    ↓
+Analysis
+    ↓
+Structured Report
