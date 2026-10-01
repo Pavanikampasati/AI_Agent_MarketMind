@@ -62,7 +62,7 @@ LLM Response
       ↓
 End
 
-MarketMind follows a multi-step agentic workflow:
+##MarketMind follows a multi-step agentic workflow:
 
 User Goal
     ↓
